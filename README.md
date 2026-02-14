@@ -3,9 +3,9 @@
 REST API sederhana Todo List menggunakan ASP.NET Core Web API dan SQLite.
 
 ## Cara Menjalankan
-1. clone repository: `git clone <URL_REPOSITORY>`
+1. clone repository: `git clone https://github.com/Dananwardana/danan_todolist.git`
 
-2. masuk ke folder project: `cd namaprojek`
+2. masuk ke folder project: `cd danan_todolist`
 
 3. install dependency: `dotnet restore`
 
