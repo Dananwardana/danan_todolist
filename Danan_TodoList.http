@@ -1,0 +1,6 @@
+@Danan_TodoList_HostAddress = http://localhost:5139
+
+GET {{Danan_TodoList_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
