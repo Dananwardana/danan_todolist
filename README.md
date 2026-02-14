@@ -20,7 +20,7 @@ REST API sederhana Todo List menggunakan ASP.NET Core Web API dan SQLite.
 
 ## Database
 Menggunakan SQLite.
-File database todos.db akan dibuat otomatis setelah menjalankan: dotnet ef database update
+File database todos.db akan dibuat otomatis setelah menjalankan: `dotnet ef database update`
 
 ## Endpoint
 1. POST /api/todos
